@@ -415,6 +415,7 @@ header .navbar__items--link {
   color: #83888F;
   text-decoration: none;
   transition: 0.7s;
+  max-width: 2000px;
 }
 header .navbar__items--link:hover {
   color: black;
@@ -457,7 +458,7 @@ main .main__desc {
 main .main__2 {
   display: flex;
   gap: 125px;
-  margin-left: 350px;
+  padding: o 20px;
 }
 main .main__2--center {
   display: flex;
